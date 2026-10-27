@@ -1,0 +1,5 @@
+# Ignore compiled simulation binaries
+design_simple_7420
+
+# Ignore wave trace database files
+*.vcd
